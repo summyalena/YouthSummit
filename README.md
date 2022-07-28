@@ -8,7 +8,7 @@
 
 ## Hosting
 
-This Portfolio is hosted on GitHub Page. [Click here]([https://summyalena.github.io/YouthSummit/index.html](https://summyalena.github.io/YouthSummit/))
+This Portfolio is hosted on GitHub Page. [Click here](https://summyalena.github.io/YouthSummit/)
 
 ### Mobile version Screenshot:
 ![ys](https://user-images.githubusercontent.com/95056164/181562221-23202d92-7507-43a1-9b8c-5fc62b17fa91.JPG)
