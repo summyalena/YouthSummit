@@ -11,9 +11,11 @@
 This Portfolio is hosted on GitHub Page. [Click here](https://summyalena.github.io/YouthSummit/index.html)
 
 ### Mobile version Screenshot:
+![ys](https://user-images.githubusercontent.com/95056164/181562221-23202d92-7507-43a1-9b8c-5fc62b17fa91.JPG)
 
 
 ### Desktop version Screenshot:
+![ysd](https://user-images.githubusercontent.com/95056164/181562276-7df991d3-ef92-4ad5-8b5f-6328a7a538f8.JPG)
 
 Here is a [Loom video that shows the description of the project's features](https://www.loom.com/share/d5bd60f0e9e0404a8e302c1a44edd20d)
 
@@ -21,18 +23,18 @@ Here is a [Loom video that shows the description of the project's features](http
 
 This project's goals are as follows:
 
--Use semantic HTML tags.
--Apply best practices in HTML code.
--Use CSS selectors correctly.
--Use CSS box model.
--Use Flexbox to place elements in the page.
--Demonstrate ability to create UIs adaptable to different screen sizes using media queries.
--Use GitHub Pages to deploy web pages.
--Apply JavaScript best practices and language style guides in code.
--Use JavaScript to manipulate DOM elements.
--Use JavaScript events.
--Use objects to store and access data.
--Communicate technical concepts to other technical people.
+- Use semantic HTML tags.
+- Apply best practices in HTML code.
+- Use CSS selectors correctly.
+- Use CSS box model.
+- Use Flexbox to place elements in the page.
+- Demonstrate ability to create UIs adaptable to different screen sizes using media queries.
+- Use GitHub Pages to deploy web pages.
+- Apply JavaScript best practices and language style guides in code.
+- Use JavaScript to manipulate DOM elements.
+- Use JavaScript events.
+- Use objects to store and access data.
+- Communicate technical concepts to other technical people.
 
 ## Built With
 
@@ -46,9 +48,10 @@ This is a simple website that creates awareness for a conference for a youth non
 
 Basic prequisites for opening a webpage as is required.
 
-- A standard PC or Mac with -
+- A standard PC -
 - Compatible and up to data browser both for PC and mobile.
-
+- Installed Code Editor
+- 
 ### Usage
 
 This code can be used for educational 📘 and code viewing purposed. The copying of these code for other use would be liable to plagarism and practically and developmentally unaccceptable.
