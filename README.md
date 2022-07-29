@@ -51,7 +51,7 @@ Basic prequisites for opening a webpage as is required.
 - A standard PC -
 - Compatible and up to data browser both for PC and mobile.
 - Installed Code Editor
-- 
+
 ### Usage
 
 This code can be used for educational 📘 and code viewing purposed. The copying of these code for other use would be liable to plagarism and practically and developmentally unaccceptable.
