@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> This project is developed as a capstone project to put to test all we have learnt during the module. It is a youth non-profit organization that creates awareness for an up-coming conference for the youths. This project is done in fulfillment to the requirements Microverse has made.
+> This project is developed as a capstone project for Microverse. It is a youth non-profit organization that creates awareness for an up-coming conference for the youths. This project is done in fulfillment to the requirements Microverse has made.
 
 ## Description
 
